@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://kesidal.github.io/sitemap.html.gz
+Sitemap: https://kesidal.github.io/app/sitemap.html.gz
+Sitemap: https://kesidal.github.io/assets/sitemap.html.gz
+Sitemap: https://kesidal.github.io/css/sitemap.html.gz
+Sitemap: https://kesidal.github.io/includes/sitemap.html.gz
+Sitemap: https://kesidal.github.io/item/sitemap.html.gz
+Sitemap: https://kesidal.github.io/src/sitemap.html.gz
